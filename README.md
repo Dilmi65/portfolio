@@ -100,12 +100,3 @@ deploy that folder to any static host.
 To swap your photo or résumé, just replace `public/profile.jpg` or
 `public/Dilmi_Edirisinghe_Resume.pdf` with a new file of the same name.
 
-## 📤 Deployment
-
-Push this repo to GitHub, then connect it to [Vercel](https://vercel.com) (built
-by the Next.js team) for one-click deploys on every push — no extra config needed.
-
-## 📄 License
-
-Personal portfolio — feel free to fork for inspiration, but please don't reuse
-the content/photos as your own.
