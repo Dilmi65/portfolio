@@ -17,8 +17,7 @@ export default function About() {
           </p>
           <p className="mt-5 font-body text-lg leading-relaxed text-ink/80">
             On the technical side, I&apos;ve built full-stack applications with
-            React.js, Laravel, PHP, and MySQL, and I have coursework exposure to
-            Java and Angular. On the people side, my psychology background and a
+            React.js, Laravel, PHP, and MySQL,  On the people side, my psychology background and a
             two-month internship with a government social services department
             have sharpened my communication, coordination, and problem-solving
             skills in real organizational settings.
