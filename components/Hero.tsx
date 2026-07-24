@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="top" className="mx-auto max-w-content px-6 pt-16 md:px-10 md:pt-24">
       <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-5">
         <div className="md:col-span-3">
-          <p className="eyebrow text-teal">Portfolio — Colombo Province, Sri Lanka</p>
+          <p className="eyebrow text-teal">Portfolio — Colombo , Sri Lanka</p>
           <h1 className="mt-5 font-display text-5xl leading-[1.05] text-ink md:text-6xl">
             <span className="text-teal">Builds software.</span>
             <br />
